@@ -1,0 +1,13 @@
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\bin\Debug\netcoreapp3.1\sinozicSebastianXML.exe
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\bin\Debug\netcoreapp3.1\sinozicSebastianXML.deps.json
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\bin\Debug\netcoreapp3.1\sinozicSebastianXML.runtimeconfig.json
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\bin\Debug\netcoreapp3.1\sinozicSebastianXML.runtimeconfig.dev.json
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\bin\Debug\netcoreapp3.1\sinozicSebastianXML.dll
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\bin\Debug\netcoreapp3.1\sinozicSebastianXML.pdb
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\obj\Debug\netcoreapp3.1\sinozicSebastianXML.csprojAssemblyReference.cache
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\obj\Debug\netcoreapp3.1\sinozicSebastianXML.AssemblyInfoInputs.cache
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\obj\Debug\netcoreapp3.1\sinozicSebastianXML.AssemblyInfo.cs
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\obj\Debug\netcoreapp3.1\sinozicSebastianXML.csproj.CoreCompileInputs.cache
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\obj\Debug\netcoreapp3.1\sinozicSebastianXML.dll
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\obj\Debug\netcoreapp3.1\sinozicSebastianXML.pdb
+C:\Users\Habo\source\repos\sinozicSebastianXML\sinozicSebastianXML\obj\Debug\netcoreapp3.1\sinozicSebastianXML.genruntimeconfig.cache
